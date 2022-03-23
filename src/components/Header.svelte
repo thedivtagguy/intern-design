@@ -3,7 +3,7 @@
     <div class="z-20 mx-auto">
       
       <h2 class="lg:text-5xl py-1 text-2xl relative  font-serif font-medium sm:text-4xl">
-        Dekh bhai, internship toh karni padegi. Kaise kar sakte hain woh hum batate hein.
+        Dekh bhai, internship toh karni padegi. Kaise kar sakte hain woh hum saath mein figure out karte hein.
 
        
 
